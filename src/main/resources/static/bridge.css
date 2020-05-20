@@ -1,0 +1,9 @@
+body{
+    background-image: url("/bridge.jpg");
+    padding: 100px 100px 100px 100px;
+    font-family: Georgia;
+    background-color: burlywood;
+    font-size: 30px;
+    font-weight: bolder;
+    color: red;
+}
